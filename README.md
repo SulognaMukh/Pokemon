@@ -1,4 +1,4 @@
-# Part 1 - Practical
+# Part 1 - Pokemon
 
 Ash Ketchum caught some Pokémon and wants to find the evolution chain, but he can’t find
 it in his Pokedex.
